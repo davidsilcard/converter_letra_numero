@@ -2,10 +2,13 @@ Metadata-Version: 2.4
 Name: converter_letra_numero
 Version: 0.1.0
 Summary: Converte letras (A–Z) em índices numéricos (0–25)
-Home-page: https://github.com/seuusuario/converter_letra_numero
+Home-page: https://github.com/davidsilcard/converter_letra_numero
 Author: Seu Nome
 Author-email: seu.email@exemplo.com
 License: MIT
+Project-URL: Documentation, https://github.com/davidsilcard/converter_letra_numero#readme
+Project-URL: Source, https://github.com/davidsilcard/converter_letra_numero
+Project-URL: Tracker, https://github.com/davidsilcard/converter_letra_numero/issues
 Classifier: Programming Language :: Python :: 3.12
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -18,6 +21,7 @@ Dynamic: description
 Dynamic: description-content-type
 Dynamic: home-page
 Dynamic: license
+Dynamic: project-url
 Dynamic: requires-python
 Dynamic: summary
 
